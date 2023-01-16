@@ -3,7 +3,7 @@
     meizu="http://app.meizu.com/apps/public/detail?package_name=com.agyer.windmill",
     --fallback="https://www.wandoujia.com/apps/8173141",
     fallback="https://www.coolapk.com/apk/com.agyer.windmill",
-    official="http://i.999087.com/apk.html?windmill",
+    --official="http://i.999087.com/apk.html?windmill",
     huawei="https://appgallery.huawei.com/#/app/C103849683",
     honor="https://appgallery.huawei.com/#/app/C103849683",
     sharing=[[Windmill 

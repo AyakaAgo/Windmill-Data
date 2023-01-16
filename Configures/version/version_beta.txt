@@ -87,7 +87,6 @@
 80.“桌面微件”设置现可在 Android 8 及以上系统快速添加微件到启动器上了（需要启动器支持，启动器可能不会每次都响应添加操作）
 81.修正了应用内更新下载安装包版本不对的问题。现在会根据设备支持情况下载 32 位或 64 位 的安装包，不再下载包含32 位和 64 位的兼容包。
 82.修正了“应用快捷方式”设置条目缺漏问题]],
-    download="https://zt.githt.com/app/windmill/apk/2.1.0-b1/compat.apk",
     download_compat="https://zt.$api_host/app/windmill/apk/2.1.0-b1/compat.apk",
     download_32="https://zt.$api_host/app/windmill/apk/2.1.0-b1/32_bit.apk",
     download_64="https://zt.$api_host/app/windmill/apk/2.1.0-b1/64_bit.apk",
