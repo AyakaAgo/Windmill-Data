@@ -1,0 +1,15 @@
+{
+    {
+        title="自适应图标在华为设备上显示错误",
+        description="",
+        solution=0,
+        image="$repo_url/Images/issue/suqare.png",
+        time=1623237317,
+    },
+    {
+        title="社区账号登录状态丢失",
+        description="",
+        solution=2,
+        time=1624184926,
+    },
+}

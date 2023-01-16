@@ -1,0 +1,29 @@
+{
+    {
+        type="title",
+        title="来自 Windmill 开发者的其他作品",
+    },
+    {
+        type="tile",
+        title="闲言",
+        icon="http://pic.downcc.com/upload/2019-11/2019112095156134.png",
+        action="#package=words.leisure.wallpapermaker;url=http://xianyan.$api_url;end"
+    },
+    --[[{
+        type="title",
+        title="小轻",
+    },
+    {
+        type="tile",
+        title="小轻工具箱",
+        icon="drawable/package_variant_black.png",
+        action="http://fun.xzwidea.cn",
+    },
+    {
+        type="tile",
+        title="小轻论坛",
+        icon="drawable/forum_black.png",
+        action="http://bbs.xzwidea.cn",
+    },]]
+    
+}

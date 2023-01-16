@@ -1,0 +1,14 @@
+{
+    mi="https://app.xiaomi.com/details?id=com.agyer.windmill",
+    meizu="http://app.meizu.com/apps/public/detail?package_name=com.agyer.windmill",
+    --fallback="https://www.wandoujia.com/apps/8173141",
+    fallback="https://www.coolapk.com/apk/com.agyer.windmill",
+    official="http://i.999087.com/apk.html?windmill",
+    huawei="https://appgallery.huawei.com/#/app/C103849683",
+    honor="https://appgallery.huawei.com/#/app/C103849683",
+    sharing=[[Windmill 
+小轻App--小而全，轻而美
+为代码玩家、编程者、极客和程序员打造，
+重新认识一下手机上的实用工具！
+]],
+}
